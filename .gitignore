@@ -1,0 +1,3 @@
+# User-specific/generated/sensitive/high-churn files
+*.iml
+.idea/
